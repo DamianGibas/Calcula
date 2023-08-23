@@ -70,16 +70,10 @@ button:active {
 
 
 
-
-
-
 .equal {
 width: 120px;
 border-radius: 42px;
 box-shadow: inset 6px 6px 13px #fff,
                   6px 6px 13px rgba(0,0,0,.16);
 background-color: #ecf0f3;
-
-
-
 }
