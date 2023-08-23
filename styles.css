@@ -57,6 +57,22 @@ font-size: 20px;
 cursor: pointer;
 }
 
+button:hover {
+    box-shadow: inset 6px 6px 13px #fff,
+                  6px 6px 13px rgba(0,0,0,.36);
+background-color: #ecf0f3;
+}
+
+
+button:active {
+    background-color: rgb(262,262,262);
+}
+
+
+
+
+
+
 .equal {
 width: 120px;
 border-radius: 42px;
